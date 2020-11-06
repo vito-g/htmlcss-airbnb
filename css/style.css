@@ -7,9 +7,15 @@
 .photo {
   height: 100vh;
   background-color: red;
+  background-size: cover;
+  background-position: center;
 }
 
 .layover {
-  background-color: rgba(20, 20, 20, 1);
+  background-color: rgba(20, 20, 20, 0.5);
   height: 100%;
+}
+
+.first.photo {
+  background-image: url("../img/Wellington.jpg");
 }
