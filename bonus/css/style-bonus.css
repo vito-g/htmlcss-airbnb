@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Ogni foto è contenuta in un box a cui ho dato del padding in modo da utilizzarlo per incorniciare le foto */
+.container {
+  padding: 20px;
+}
+
+.photo {
+  height: calc(100vh - 40px);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  box-shadow: 6px 6px #101010;
+}
+
+.layover {
+  background-color: rgba(50, 30, 10, 0.5);
+  height: 100%;
+}
+
+
+.first.photo {
+  background-image: url("../img/Wellington.jpg");
+}
+
+.second.photo {
+  background-image: url("../img/Auckland.jpg");
+}
+
+.third.photo {
+  background-image: url("../img/Tauranga.jpg");
+}
+
+
+.city-name {
+  font-size: 50px;
+  color: white;
+  text-shadow: 2px 2px #000000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
