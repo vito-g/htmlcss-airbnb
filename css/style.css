@@ -19,3 +19,8 @@
 .first.photo {
   background-image: url("../img/Wellington.jpg");
 }
+
+.city-name {
+  font-size: 50px;
+  color: white;
+}
