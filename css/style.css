@@ -14,11 +14,11 @@
   background-size: cover;
   background-position: center;
   position: relative;
-  box-shadow: 4px 4px #101010;
+  box-shadow: 6px 6px #101010;
 }
 
 .layover {
-  background-color: rgba(50, 20, 20, 0.5);
+  background-color: rgba(50, 30, 10, 0.5);
   height: 100%;
 }
 
