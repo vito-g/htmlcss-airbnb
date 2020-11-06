@@ -22,9 +22,13 @@
   height: 100%;
 }
 
-.layover:hover .layover{
+.container:hover .layover {
   background-color: rgba(50, 30, 10, 0);
 }
+
+/* .layover:hover .city-name {
+  background-color: rgba(50, 30, 10, 0);
+} */
 
 .first.photo {
   background-image: url("../img/Wellington.jpg");
