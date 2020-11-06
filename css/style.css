@@ -9,6 +9,7 @@
   background-color: red;
   background-size: cover;
   background-position: center;
+  position: relative;
 }
 
 .layover {
@@ -19,6 +20,15 @@
 .first.photo {
   background-image: url("../img/Wellington.jpg");
 }
+
+.second.photo {
+  background-image: url("../img/Auckland.jpg");
+}
+
+.third.photo {
+  background-image: url("../img/Tauranga.jpg");
+}
+
 
 .city-name {
   font-size: 50px;
