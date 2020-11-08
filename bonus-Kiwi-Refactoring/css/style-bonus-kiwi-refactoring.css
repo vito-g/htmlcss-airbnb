@@ -67,6 +67,7 @@ a {
   height: calc(100vh - 40px);
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   position: relative;
 }
 
