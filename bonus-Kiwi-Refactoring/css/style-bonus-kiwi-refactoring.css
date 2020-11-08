@@ -104,15 +104,17 @@ a {
 }
 
 .description {
-  font-size: 0.3em;
-  font-family: courier, monospace;
-  text-align: center;
-  width: 100%;
-  padding: 5px;
+  font-size: 15px;
+  font-family: "Comic Sans MS", fantasy;
+  color: white;
+  text-align: left;
+  padding: 10px;
   background-color: black;
-  /* border-radius: 10px 0 10px 10px; */
-  display: none;
-  position: fixed;
+  border-radius: 10px 10px 10px 0;
+  /* display: none; */
+  position: absolute;
+  left: 260px;
+  bottom: 254px;
 }
 
 .container:hover .city-name {
