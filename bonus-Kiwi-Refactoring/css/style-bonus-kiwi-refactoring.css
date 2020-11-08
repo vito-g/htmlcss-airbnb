@@ -163,12 +163,16 @@ input[type="submit"] {
   cursor: pointer;
 }
 
+input:focus {
+  outline: none;
+}
+
 footer {
   /* height: 80px; */
   width: 70vw;
   background-color: orange;
   margin: 40px auto;
-  padding: 15px 20px 15px 20px;
+  padding: 12px 20px 12px 20px;
   font-size: 15px;
   font-family: "Comic Sans MS", fantasy;
   color: white;
