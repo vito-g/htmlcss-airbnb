@@ -49,6 +49,10 @@ a {
   margin: auto;
 }
 
+.kiwi {
+  
+}
+
 .photo {
   height: calc(100vh - 40px);
   background-size: cover;
