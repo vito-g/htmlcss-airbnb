@@ -146,6 +146,10 @@ a {
   box-shadow: 10px 10px 10px rgba(45,45,45,0.6);
 }
 
+form {
+  padding-top: 20px;
+}
+
 input {
   padding: 12px;
   border-radius: 8px;
@@ -156,4 +160,11 @@ input {
 
 input[type="submit"] {
   cursor: pointer;
+}
+
+footer {
+  height: 80px;
+  width: 70vw;
+  background-color: orange;
+  margin: 40px auto;
 }
