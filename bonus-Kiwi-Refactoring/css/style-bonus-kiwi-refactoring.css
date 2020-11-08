@@ -136,4 +136,12 @@ a {
   position: fixed;
   bottom: 45px;
   right: 15px;
+  color: white;
+  font-family: "Comic Sans MS", fantasy;
+  font-size: 15px;
+  transform: rotate(-2deg);
+  background-color: darkgrey;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px rgba(45,45,45,0.6);
 }
