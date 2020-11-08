@@ -25,6 +25,12 @@ header {
   box-shadow: 10px 10px 10px rgba(45,45,45,0.6);
 }
 
+header ul li {
+  display: inline-block;
+  font-size: 0.3em;
+  padding-right: 50px;
+}
+
 /* Ogni foto è contenuta in un box a cui ho dato del padding in modo da utilizzarlo per incorniciare le foto */
 .container {
   padding: 20px;
