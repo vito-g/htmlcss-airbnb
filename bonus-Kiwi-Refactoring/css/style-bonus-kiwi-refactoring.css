@@ -7,6 +7,8 @@
 
 body {
   background-image: url(../img/vintage-005.png);
+  background-size: cover;
+  background-position: center;
 }
 
 /* Ogni foto è contenuta in un box a cui ho dato del padding in modo da utilizzarlo per incorniciare le foto */
