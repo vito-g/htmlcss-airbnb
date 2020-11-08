@@ -145,3 +145,11 @@ a {
   border-radius: 20px;
   box-shadow: 10px 10px 10px rgba(45,45,45,0.6);
 }
+
+input {
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  margin: 5px;
+  width: 95%;
+}
