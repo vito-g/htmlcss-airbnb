@@ -8,6 +8,8 @@
 .container {
   padding: 20px;
   background-color: orange;
+  width: 70vw;
+  margin: auto;
 }
 
 .photo {
@@ -62,7 +64,7 @@
   position: fixed;
 }
 
-.container:hover .city-name {
+/* .container:hover .city-name {
   text-shadow: 2.5px 2.5px 5px rgb(20, 20, 20);
   color: orange;
   display: block;
@@ -76,4 +78,4 @@
 
 .container:hover .photo {
   box-shadow: 6px 6px #ffffff;
-}
+} */
