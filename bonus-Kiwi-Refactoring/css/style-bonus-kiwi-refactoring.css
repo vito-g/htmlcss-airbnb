@@ -31,6 +31,11 @@ header ul li {
   padding-right: 50px;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 /* Ogni foto è contenuta in un box a cui ho dato del padding in modo da utilizzarlo per incorniciare le foto */
 .container {
   padding: 20px;
