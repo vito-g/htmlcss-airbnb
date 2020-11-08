@@ -59,6 +59,10 @@ a {
   left: 0;
 }
 
+.container:hover .kiwi {
+  background-image: url("../img/kiwi-002.png");
+}
+
 .photo {
   height: calc(100vh - 40px);
   background-size: cover;
