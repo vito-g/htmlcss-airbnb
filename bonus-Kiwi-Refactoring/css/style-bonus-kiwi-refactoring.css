@@ -80,18 +80,17 @@ a {
   background-color: rgba(50, 30, 10, 0);
 }
 
-.first.photo {
+.container:first-of-type .photo {
   background-image: url("../img/Wellington.jpg");
 }
 
-.second.photo {
+.container:nth-of-type(2) .photo {
   background-image: url("../img/Auckland.jpg");
 }
 
-.third.photo {
+.container:nth-of-type(3) .photo {
   background-image: url("../img/Tauranga.jpg");
 }
-
 
 .city-name {
   font-size: 50px;
