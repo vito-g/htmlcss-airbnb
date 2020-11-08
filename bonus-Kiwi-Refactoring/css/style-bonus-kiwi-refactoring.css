@@ -153,3 +153,7 @@ input {
   margin: 5px;
   width: 95%;
 }
+
+input[type="submit"] {
+  cursor: pointer;
+}
