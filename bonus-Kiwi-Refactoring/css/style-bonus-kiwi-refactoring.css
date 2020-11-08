@@ -53,7 +53,7 @@ a {
 .kiwi {
   width: 260px;
   height: 254px;
-  background-color: black;
+  background-image: url("../img/kiwi-001.png");
   position: absolute;
   bottom: 0;
   left: 0;
