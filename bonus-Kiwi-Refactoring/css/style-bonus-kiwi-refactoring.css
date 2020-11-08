@@ -64,13 +64,13 @@
   position: fixed;
 }
 
-/* .container:hover .city-name {
+.container:hover .city-name {
   text-shadow: 2.5px 2.5px 5px rgb(20, 20, 20);
   color: orange;
   display: block;
 }
 
-.container:hover .description {
+/* .container:hover .description {
   color: white;
   text-shadow: 0px 0px rgba(50, 30, 10, 0.5);
   display: block;
