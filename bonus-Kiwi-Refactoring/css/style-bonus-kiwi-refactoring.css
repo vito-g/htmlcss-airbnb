@@ -123,11 +123,10 @@ a {
   display: block;
 }
 
-/* .container:hover .description {
-  color: white;
+.container:hover .description {
   text-shadow: 0px 0px rgba(50, 30, 10, 0.5);
   display: block;
-} */
+}
 
 .container:hover .photo {
   box-shadow: inset 2.5px 2.5px 5px rgba(45,45,45,0.6);
